@@ -1,4 +1,4 @@
-- 7 years of experience
+- 7+ years of experience
 - Healthcare claims and clinical domain
 - ML & Deep Learning approaches
 - MLOps
