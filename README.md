@@ -6,5 +6,5 @@
 - Cognitive Technology
 - Applying research to real world problems
 
-Linkedin: https://www.linkedin.com/in/triet-pham-94975457/
+Linkedin: https://www.linkedin.com/in/evoltriet
 
